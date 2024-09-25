@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img height="100" src="https://avatars.githubusercontent.com/u/130256240?v=4"  />
-</div>
-
-###
-
 <p align="left">I'm a student from Cologne, Germany. I love the open source community. <br>I'm occasionally contribute to projects here on GitHub and learn new things along the way.</p>
 
 ###
