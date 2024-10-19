@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning cloud computing</p>
+<p align="left">✨ Creating and fixing bugs since 2021<br>📚 I'm currently learning cloud computing</p>
 
 ###
 
